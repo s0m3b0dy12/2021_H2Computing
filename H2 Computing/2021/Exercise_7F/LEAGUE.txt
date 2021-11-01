@@ -1,0 +1,15 @@
+Manchester United 4  Everton 1
+Liverpool 1  Manchester United 5
+West Bromwich Albion 1  Chelsea 2
+Everton 1  Chelsea 1
+Arsenal 3  Everton 2
+Everton 0  Liverpool 0
+Chelsea 1  Manchester United 1
+Liverpool 2  Chelsea 5
+Chelsea 0  Arsenal 0
+Arsenal 1  Manchester United 1
+Liverpool 3  Arsenal 1
+West Bromwich Albion 2  Manchester United 3
+Liverpool 1  West Bromwich Albion 3
+Arsenal 0  West Bromwich Albion 0
+West Bromwich Albion 1  Everton 2
