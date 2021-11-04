@@ -28,8 +28,8 @@ Exercise 8F:
 Assignments:
 
 Assignment2: Done
-Assignment3:
-Assignment4:
+Assignment3: Done
+Assignment4: Done
 Assignment5:
 Assignment6:
 Assignment7:
