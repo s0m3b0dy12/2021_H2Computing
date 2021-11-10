@@ -1,0 +1,23 @@
+Conversion
+
+```
+    if 0 <= rem <= 9:
+      hex = str(rem) + hex 
+    elif rem == 10:
+      hex = "A" + hex 
+    elif rem == 11:
+      hex = "B" + hex 
+    elif rem == 12:
+      hex = "C" + hex 
+    elif rem == 13:
+      hex = "D" + hex 
+    elif rem == 14:
+      hex = "E" + hex 
+    elif rem == 15:
+      hex = "F" + hex 
+```
+
+can be simplified as
+
+'else:
+      hex =  chr((ord('A') + rem - 10) + hex'
