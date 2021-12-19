@@ -30,7 +30,7 @@ Assignments:
 Assignment2: Done
 Assignment3: Done
 Assignment4: Done
-Assignment5:
+Assignment5: Done
 Assignment6:
 Assignment7:
 Assignment8A: 
