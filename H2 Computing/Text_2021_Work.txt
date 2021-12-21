@@ -31,7 +31,7 @@ Assignment2: Done
 Assignment3: Done
 Assignment4: Done
 Assignment5: Done
-Assignment6:
+Assignment6: Done
 Assignment7:
 Assignment8A: 
 
