@@ -11,7 +11,7 @@ Exercise 4C: Done
 Exercise 5A: Done
 Exercise 5B: Done
 Exercise 6A: Done
-Exercise 6B:
+Exercise 6B: Done
 Exercise 6C:
 Exercise 7B:
 Exercise 7C:
@@ -32,7 +32,7 @@ Assignment3: Done
 Assignment4: Done
 Assignment5: Done
 Assignment6: Done
-Assignment7:
+Assignment7: Done
 Assignment8A: 
 
 Class Tests:
