@@ -14,7 +14,7 @@ Exercise 6A: Done
 Exercise 6B: Done
 Exercise 7B: Done
 Exercise 7C:
-Exercise 7D:
+Exercise 7D: Notes on dictionaries
 Exercise 7E: Word doc
 Exercise 7F:
 Exercise 8A:
