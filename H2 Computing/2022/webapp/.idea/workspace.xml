@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4885b4e6-a023-4485-8c46-f28d4f4e1fc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/mongo-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/.ipynb_checkpoints/sql-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/books.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/library.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/sql.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021/Exercise_8E.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2021/Exercise_8E.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures/Data Structures 10B.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures/Data Structures.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures/LinkedList Class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures/LinkedList Class.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/OOP1-Student copy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/OOP2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/OOP3-Student copy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Text_2021_Work.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="28SAcsV0RttVSwduoRaBLPTNynY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4885b4e6-a023-4485-8c46-f28d4f4e1fc5" name="Changes" comment="" />
+      <created>1651199696366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651199696366</updated>
+      <workItem from="1651199697669" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

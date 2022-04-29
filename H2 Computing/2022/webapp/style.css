@@ -1,0 +1,114 @@
+h1 {
+    color: #2196F3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+/* Source order - latest h1 takes effect */
+ /*render without this first*/
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+
+/*id selector*/
+#correct{
+    border-left: 4px solid blue;
+    border-radius: 4px;
+    background-color: lightblue;
+    padding: 8px;
+
+
+}
+
+/*class selector*/
+.error {
+    border-left: 4px solid #EF5350;
+    border-radius: 4px;
+    background-color: #FFEBEE;
+    padding: 8px;
+}
+
+/*Cascading – Specificity*/
+/* Descendant Combinator  */
+
+p.error {
+    border-left: 4px solid blue;
+    border-radius: 4px;
+    background-color: lightgreen;
+    padding: 8px;
+}
+
+/* Descendant Combinator  */
+
+p span {
+
+    background-color: red;
+    padding: 8px;
+}
+
+p span span {
+
+    background-color: lightblue;
+    padding: 8px;
+}
+
+
+/* Child Combinator  */
+
+p > span {
+    background-color: grey;
+    padding: 8px;
+}
+
+
+/*
+Cascading - Source order
+Define the author  stylesheet
+*/
+
+h1 {
+    color: #2196F3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+h1 {
+    color: chocolate;
+    font-size: 48px;
+}
+
+
+/* Inheritance */
+
+body{
+    color : red;
+}
+
+/* Display inline and block*/
+/* comment out to show span default inline display*/
+
+span{
+	color: blue;
+	/*display:block;*/
+	border: 1px solid red;
+}
+
+/* Display inline and block*/
+/* comment out to show div default inline display*/
+
+div{
+	color: red;
+	/*display: inline;*/
+	border: 1px solid red;
+}
