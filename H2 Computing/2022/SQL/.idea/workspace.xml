@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8002571d-e29b-41af-8c0d-a3491a4c6294" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../2021/Exercise_8B/.ipynb_checkpoints/Exercise 8B Solution Guide-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2021/Exercise_8B/Exercise 8B Solution Guide.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2021/Exercise_8B/Exercise 8B.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2021/Exercise_8B/Exercise 8B.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2021/Exercise_8E.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2021/Exercise_8E.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sql.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +28,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/drive-download-20220504T074047Z-001" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,6 +45,9 @@
       <updated>1651330112948</updated>
       <workItem from="1651330114294" duration="283000" />
       <workItem from="1651330530387" duration="670000" />
+      <workItem from="1651640947529" duration="295000" />
+      <workItem from="1651641264040" duration="704000" />
+      <workItem from="1651650162943" duration="85000" />
     </task>
     <servers />
   </component>
